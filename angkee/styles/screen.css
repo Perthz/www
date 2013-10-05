@@ -8,6 +8,11 @@
 			   		   
 ---------------------------------------------  */
 
+section#content {font-size: 20px;}
+p em {color:#fa5233;}
+h3 {line-height: 200%;}
+
+
 .highlight {
 	font-size: 24px;
 	font-family: Arial, Helvetica, sans-serif;
@@ -20,7 +25,7 @@ body { min-height: 100%; padding-top: 28px; background: url(../images/background
 
 body, textarea, input, select, option, button { color: #706a64; font-family: Arial, Helvetica, sans-serif; line-height: 1.65; }
 li, dt, dd, p, figure, th, td, caption, legend, pre { font-size: 1.3em; } li *, dt *, dd *, p *, figure *, th *, td *, legend * { font-size: 1em; }
-ul, ol, dl, p, figure, table, pre, h1, h2, h3, h4, h5, h6, legend { margin-bottom: 23px; }
+ul, ol, dl, p, figure, table, pre, h1, h2, h3, h4, h5, h6, legend { margin-bottom: 23px;}
 
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, div { display: block; }
 

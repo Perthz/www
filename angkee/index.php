@@ -50,7 +50,7 @@
         </div>
       </div>
       <div>
-        <figure><img src="images/wedding1.jpg"" alt="Placeholder" width="2000" height="460"></figure>
+        <figure><img src="images/wedding1.jpg" alt="Placeholder" width="2000" height="460"></figure>
         <div>
           <h2>สินค้าขายดี ขนมโก๋อ่อนสด </h2>
           <p>ผลิตใหม่ทุกวันตามออเดอร์ลูกค้า มีทั้งไส้ถั่วเหลืองและถั่วดำ สูตรต้นตำรับของอั่งกี่โดยเฉพาะ นุ่มลิ้น รสชาติหวานน้อย </p>
@@ -97,7 +97,7 @@
     	</a>
     </div>
     
-    <div>style="height: 373px;">
+    <div>
     	<a href="chinesebridalcake.php">
     	<div><img align="left" hspace="10" src="/chinesebridalcake.jpg" width="280" height="373" alt="ขนมหมั้นแจกพร้อมการ์ดเชิญ"></div>
         
